@@ -1,0 +1,12 @@
+node_modules/
+
+.env
+.env.*
+!.env.example
+
+bot_logs.txt
+bot_logs*.txt
+
+configs/*.env
+configs/*.env.*
+!configs/.env.example

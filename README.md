@@ -1,4 +1,7 @@
-# Voice Discord Bot
+![Node](https://img.shields.io/badge/node-%3E%3D18-green)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
+# Advanced Auto Voice for Discord
 
 Bot tự động tham gia voice và gửi lệnh playlist theo chu kỳ cho nhiều tài khoản Discord (selfbot).
 
